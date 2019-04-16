@@ -23,6 +23,6 @@ missing or invalid dependency detected while loading class file 'RDD.class'. Cou
 ```
 
 ```
-https://blog.csdn.net/hyp1006346386/article/details/68945374
+https://blog.csdn.net/weixin_37595559/article/details/78335610
 ```
 
